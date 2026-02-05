@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #70ff7e;
+}
+
+.tugma {
+  margin: 50px auto;
+  border-radius: 20px;
+  width: 400px;
+  font-size: 48px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  line-height: 116px;
+  height: 116px;
+  background-color: #001ebd;
+}
+
+.svetafor {
+  padding: 69px 0;
+  width: 451px;
+  height: 777px;
+  border-radius: 12px;
+  margin: 50px auto;
+  background-color: #040404;
+}
+
+.qizil {
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #df3636;
+  border: 5px solid #28e145;
+}
+
+.sariq {
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #fde403;
+  border: 5px solid #28e145;
+}
+
+.yashil {
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #28e145;
+  border: 5px solid #fde403;
+}
